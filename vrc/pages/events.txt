@@ -1,0 +1,64 @@
+{{START_TITLE}}
+<color=#45A4F1>Events & Hosts</color>
+{{END_TITLE}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Queer Questioning</size></color>
+Jasmine Pizza
+
+<color=#46A5F1><size=150%>Rainbow Reels (Movie Night)</size></color>
+Cmdr Modder, Oraxia
+
+<color=#46A5F1><size=150%>Tunes 'n' Thursday</size></color>
+Jesski
+
+<color=#46A5F1><size=150%>Rainbow Roams</size></color>
+Jellvi 
+
+<color=#46A5F1><size=150%>Snacks 'n' Sunday</size></color>
+Lyxie
+
+<color=#46A5F1><size=150%>Seasonal Festival</size></color>
+Lyxie, Jesski and Cmdr Modder
+
+<color=#46A5F1><size=150%>Karaoke</size></color>
+Matty Matt
+
+{{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Femme Sublime Time</size></color>
+CarlyTheGoth, Jellvi
+
+<color=#46A5F1><size=150%>Transmasc & Chill</size></color>
+Eldritch
+
+<color=#46A5F1><size=150%>Gender Chaos Hour</size></color>
+BitiTiger
+
+<color=#46A5F1><size=150%>Headmate Hangout</size></color>
+Prismatic Snow 
+
+<color=#46A5F1><size=150%>Rainbow Howl</size></color>
+BitiTiger
+
+<color=#46A5F1><size=150%>Neurodivergent Network</size></color>
+Cmdr Modder
+{{END_COLUMN}}
+
+//--------------------------------------------------
+
+{{START_COLUMN}}
+<color=#46A5F1><size=150%>Practical Voice Training Workshop With Izzy</size></color>
+Izzy
+
+<color=#46A5F1><size=150%>Voice Training Workshop With Lyxie</size></color>
+Lyxie
+
+<color=#46A5F1><size=150%>Zarraz's Voice Training Workshop</size></color>
+Zarraz
+{{END_COLUMN}}
