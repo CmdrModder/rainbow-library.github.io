@@ -4,6 +4,7 @@
          "team":"Librarians",
          "members":[
             "Asheris",
+            "Lyxie",
             "Starlight"
          ]
       },
@@ -39,7 +40,6 @@
         "team": "Mediation",
         "members": [
           "ReinaVulpecula (Lead)",
-          "Matty Matt (Sublead)",
           "Améthyst",
           "Cosmic Maestra",
           "DagiWeh",
@@ -138,10 +138,6 @@
       {
          "name":"ArchiTech",
          "credits":"ProTV"
-      },
-      {
-         "name":"BitiTiger",
-         "credits":"Scripting, Lighting, Optimization, Presentation shaders"
       },
       {
          "name":"Braille Institute of America",
@@ -250,8 +246,7 @@
       {
          "event":"Queer Questioning",
          "members":[
-            "Jasmine Pizza",
-            "Pretzel Otters"
+            "Jasmine Pizza"
          ]
       },
       {
@@ -288,12 +283,6 @@
          ]
       },
       {
-         "event":"Karaoke",
-         "members":[
-            "Matty Matt"
-         ]
-      },
-      {
          "event":"Femme Sublime Time",
          "members":[
             "CarlyTheGoth",
@@ -308,8 +297,9 @@
       },
       {
          "event":"Gender Chaos Hour",
-         "members":[
-         ]
+         "members": [
+           "Cmdr Modder"
+        ]
       },
       {
          "event":"Headmate Hangout",
